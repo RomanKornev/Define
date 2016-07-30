@@ -17,3 +17,4 @@ To install the plugin, type in Wox:
 ```
 wpm install Define
 ```
+### Built using [TextBlob](https://textblob.readthedocs.io/en/dev/contributing.html) and [NLTK](http://www.nltk.org/)
