@@ -1,0 +1,12 @@
+{
+    "ID":"c0c3c909-e579-4d81-850b-858f26b74693",
+    "ActionKeyword":"define",
+    "Name":"Define",
+    "Description":"Defines a word",
+    "Author":"RomanKornev",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/RomanKornev/Define",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
